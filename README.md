@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Marko Ivan Marojević, a computer engineering student with a passion in AI | ML. 
+Living in Montenegro|🇲🇪. 
+ML Engineer Intern at "Prva banka Crne Gore AD", Podgorica. 
+
+Feel free to reach me: ivan.marojevic@prvabankacg.com
