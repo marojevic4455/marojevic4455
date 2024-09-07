@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Marko Ivan Marojević, a computer engineering student with a passion in AI | ML. 
+👨🏻‍💻 I am Marko Ivan Marojević, a computer engineering student with a passion in AI | ML. 
 
-Living in Montenegro|🇲🇪. 
+📍 Living in Montenegro|🇲🇪. 
 
-ML Engineer Intern at "Prva banka Crne Gore AD", Podgorica. 
+🤖 ML Engineer Intern at "Prva banka Crne Gore AD", Podgorica. 
 
 
-Feel free to reach me: ivan.marojevic@prvabankacg.com
+📧 Feel free to reach me: ivan.marojevic@prvabankacg.com
+
+---
+553239745a5852706257567a49476c3049476c7a494764766232516764473867636d5630636d397a6347566a6443343d
