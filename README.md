@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 I am Marko Ivan Marojević, a computer engineering student with a passion in AI | ML. 
 
-📍 Living in Montenegro|🇲🇪. 
+👨🏻‍🎓 Student in IT faculty of Mediterranean University. 
 
 🤖 ML Engineer Intern at "Prva banka Crne Gore AD", Podgorica. 
 
